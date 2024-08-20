@@ -5,6 +5,8 @@ services:
     ports:
       - "8080:80"
   # php
-
+  app:
+    build:
+      dockerfile: ./php/Dockerfile
   # mysql
   # redis
