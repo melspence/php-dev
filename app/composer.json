@@ -1,12 +1,12 @@
 {
-  "name": "garyclarke/translatethis",
-  "description": "A Docker demo app for garyclarke.tech",
+  "name": "melspence/php-dev",
+  "description": "A Docker template environment for basic PHP development",
   "minimum-stability": "dev",
   "license": "MIT",
   "authors": [
     {
-      "name": "Gary Clarke",
-      "email": "info@garyclarke.tech"
+      "name": "Melville Spence",
+      "email": "melvillespence@hamnavoesolutions.com"
     }
   ],
   "require": {
